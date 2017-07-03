@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A76BBFDE1F0A21120092A19A = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 6QJM4LZKTP;
 						ProvisioningStyle = Automatic;
 					};
 					A76BBFF21F0A21120092A19A = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6QJM4LZKTP;
 				INFOPLIST_FILE = QuizGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tatiana.QuizGame;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6QJM4LZKTP;
 				INFOPLIST_FILE = QuizGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tatiana.QuizGame;
